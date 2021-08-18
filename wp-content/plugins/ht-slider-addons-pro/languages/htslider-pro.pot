@@ -1,0 +1,1067 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HT Slider Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-14 05:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: include/addons/htslider_addons.php:314
+msgid " Color"
+msgstr ""
+
+#: include/addons/htslider_addons.php:306
+msgid " Excerpt"
+msgstr ""
+
+#: include/admin/templates_list.php:57
+msgid " has been imported."
+msgstr ""
+
+#: include/addons/htslider_addons.php:261
+msgid " Sub Title"
+msgstr ""
+
+#: include/addons/htslider_addons.php:269
+msgid " Sub Title Color"
+msgstr ""
+
+#: include/admin/templates_list.php:34
+msgid " Templates"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: include/base.php:112 include/base.php:133
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: include/addons/htslider_addons.php:470
+#: include/addons/htslider_addons.php:477
+msgid "#"
+msgstr ""
+
+#: include/base.php:87
+#, php-format
+msgid ""
+"%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin "
+"to be active. Please activate Elementor to continue."
+msgstr ""
+
+#: include/base.php:94
+#, php-format
+msgid ""
+"%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin "
+"to be installed and activated. Please install Elementor to continue."
+msgstr ""
+
+#: include/admin/templates_list.php:32
+msgid "80 Templates"
+msgstr ""
+
+#: include/base.php:88
+msgid "Activate Elementor"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1749
+#: include/addons/htslider_post_addons.php:1826
+msgid "Active"
+msgstr ""
+
+#: include/custom-post-type.php:82
+msgid "Add New Item"
+msgstr ""
+
+#: include/custom-post-type.php:20 include/custom-post-type.php:21
+msgid "Add New Slider"
+msgstr ""
+
+#: include/custom-post-type.php:87
+msgid "Add or remove items"
+msgstr ""
+
+#: include/addons/htslider_addons.php:234
+#: include/addons/htslider_addons.php:280
+#: include/addons/htslider_addons.php:325
+#: include/addons/htslider_addons.php:390
+#: include/addons/htslider_addons.php:915
+#: include/addons/htslider_post_addons.php:764
+#: include/addons/htslider_post_addons.php:856
+#: include/addons/htslider_post_addons.php:1069
+msgid "Alignment"
+msgstr ""
+
+#: include/custom-post-type.php:78
+msgid "All Item Categories"
+msgstr ""
+
+#: include/custom-post-type.php:19
+msgid "All Sliders"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1226
+#: include/addons/htslider_post_addons.php:1263
+msgid "Arrow"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1252
+#: include/addons/htslider_post_addons.php:1289
+msgid "Arrow Left Postion"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1320
+#: include/addons/htslider_post_addons.php:1357
+msgid "Arrow Right Postion"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:133
+msgid "Ascending"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:245
+msgid "Author"
+msgstr ""
+
+#: include/addons/htslider_addons.php:713
+#: include/addons/htslider_post_addons.php:435
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: include/addons/htslider_addons.php:700
+#: include/addons/htslider_post_addons.php:422
+msgid "Autoplay speed"
+msgstr ""
+
+#: include/admin/templates_list.php:44
+msgid "Back to Library"
+msgstr ""
+
+#: include/addons/htslider_addons.php:196
+#: include/addons/htslider_addons.php:888
+#: include/addons/htslider_addons.php:1442
+#: include/addons/htslider_addons.php:1565
+#: include/addons/htslider_addons.php:1706
+#: include/addons/htslider_addons.php:1757
+#: include/addons/htslider_post_addons.php:587
+#: include/addons/htslider_post_addons.php:959
+#: include/addons/htslider_post_addons.php:993
+#: include/addons/htslider_post_addons.php:1173
+#: include/addons/htslider_post_addons.php:1227
+#: include/addons/htslider_post_addons.php:1479
+#: include/addons/htslider_post_addons.php:1602
+#: include/addons/htslider_post_addons.php:1783
+#: include/addons/htslider_post_addons.php:1834
+msgid "Background"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1087
+msgid "Background "
+msgstr ""
+
+#: include/addons/htslider_addons.php:446
+msgid "Background Hover "
+msgstr ""
+
+#: include/addons/htslider_addons.php:1130
+#: include/addons/htslider_addons.php:1193
+#: include/addons/htslider_addons.php:1452
+#: include/addons/htslider_addons.php:1575
+#: include/addons/htslider_addons.php:1728
+#: include/addons/htslider_addons.php:1767
+#: include/addons/htslider_post_addons.php:1183
+#: include/addons/htslider_post_addons.php:1237
+#: include/addons/htslider_post_addons.php:1489
+#: include/addons/htslider_post_addons.php:1612
+#: include/addons/htslider_post_addons.php:1805
+#: include/addons/htslider_post_addons.php:1844
+msgid "Border"
+msgstr ""
+
+#: include/addons/htslider_addons.php:370
+#: include/addons/htslider_addons.php:435
+msgid "Border color"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1138
+#: include/addons/htslider_addons.php:1201
+#: include/addons/htslider_addons.php:1460
+#: include/addons/htslider_addons.php:1583
+#: include/addons/htslider_addons.php:1736
+#: include/addons/htslider_addons.php:1775
+#: include/addons/htslider_post_addons.php:1191
+#: include/addons/htslider_post_addons.php:1245
+#: include/addons/htslider_post_addons.php:1497
+#: include/addons/htslider_post_addons.php:1620
+#: include/addons/htslider_post_addons.php:1813
+#: include/addons/htslider_post_addons.php:1852
+msgid "Border Radius"
+msgstr ""
+
+#: include/addons/htslider_addons.php:352
+#: include/addons/htslider_addons.php:1042
+msgid "Button"
+msgstr ""
+
+#: include/addons/htslider_addons.php:380
+msgid "Button Backgound"
+msgstr ""
+
+#: include/addons/htslider_addons.php:360
+msgid "Button Color"
+msgstr ""
+
+#: include/addons/htslider_addons.php:415
+msgid "Button Hover"
+msgstr ""
+
+#: include/addons/htslider_addons.php:147
+msgid "Button Text"
+msgstr ""
+
+#: include/admin/templates_list.php:80
+msgid "Buy Now"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:80
+#: include/addons/htslider_post_addons.php:94
+msgid "Categories"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:235
+#: include/addons/htslider_post_addons.php:888
+msgid "Category"
+msgstr ""
+
+#: include/addons/htslider_addons.php:242
+#: include/addons/htslider_addons.php:288
+#: include/addons/htslider_addons.php:333
+#: include/addons/htslider_addons.php:398
+#: include/addons/htslider_addons.php:923
+#: include/addons/htslider_post_addons.php:772
+#: include/addons/htslider_post_addons.php:864
+#: include/addons/htslider_post_addons.php:1077
+msgid "Center"
+msgstr ""
+
+#: include/addons/htslider_addons.php:657
+#: include/addons/htslider_post_addons.php:379
+msgid "Center Mode"
+msgstr ""
+
+#: include/addons/htslider_addons.php:670
+#: include/addons/htslider_post_addons.php:392
+msgid "Center padding"
+msgstr ""
+
+#: include/custom-post-type.php:88
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/addons/htslider_addons.php:873
+#: include/addons/htslider_addons.php:1072
+#: include/addons/htslider_addons.php:1160
+#: include/addons/htslider_addons.php:1176
+#: include/addons/htslider_addons.php:1398
+#: include/addons/htslider_addons.php:1548
+#: include/addons/htslider_post_addons.php:714
+#: include/addons/htslider_post_addons.php:806
+#: include/addons/htslider_post_addons.php:908
+#: include/addons/htslider_post_addons.php:976
+#: include/addons/htslider_post_addons.php:1016
+#: include/addons/htslider_post_addons.php:1122
+#: include/addons/htslider_post_addons.php:1210
+#: include/addons/htslider_post_addons.php:1435
+#: include/addons/htslider_post_addons.php:1585
+msgid "Color"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:153
+msgid "Comment count"
+msgstr ""
+
+#: include/addons/htslider_addons.php:107
+#: include/addons/htslider_post_addons.php:189
+#: include/addons/htslider_post_addons.php:796
+msgid "Content"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:576
+msgid "Content Area"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:199
+msgid "Content Length"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:600
+#: include/addons/htslider_post_addons.php:631
+msgid "Content Postion"
+msgstr ""
+
+#: include/addons/htslider_addons.php:44
+#: include/addons/htslider_post_addons.php:70
+msgid "Content Sourse"
+msgstr ""
+
+#: include/admin/templates_list.php:14
+msgid "Create a new slider from this template"
+msgstr ""
+
+#: include/addons/htslider_addons.php:48
+msgid "Custom"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:118
+msgid "Custom order"
+msgstr ""
+
+#: include/addons/htslider_addons.php:49
+msgid "Custom Post"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:2016
+msgid "d F Y"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:150
+#: include/addons/htslider_post_addons.php:255
+msgid "Date"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:132
+msgid "Descending"
+msgstr ""
+
+#: include/addons/htslider_addons.php:469
+#: include/addons/htslider_addons.php:476
+msgid "Details"
+msgstr ""
+
+#: include/custom-post-type.php:23 include/custom-post-type.php:83
+msgid "Edit Item"
+msgstr ""
+
+#: include/admin/template-library.php:203
+msgid "Edit Template"
+msgstr ""
+
+#: include/base.php:114
+msgid "Elementor"
+msgstr ""
+
+#: include/addons/htslider_addons.php:150
+msgid "Enter button text"
+msgstr ""
+
+#: include/addons/htslider_addons.php:136
+#: include/addons/htslider_addons.php:1007
+msgid "Excerpt"
+msgstr ""
+
+#: include/custom-post-type.php:29
+msgid "Featured Image"
+msgstr ""
+
+#: include/custom-post-type.php:37
+msgid "Filter items list"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1414
+#: include/addons/htslider_post_addons.php:1451
+msgid "Font Size"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1471
+#: include/addons/htslider_post_addons.php:1508
+#: include/addons/htslider_post_addons.php:1660
+msgid "Height"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1263
+#: include/addons/htslider_addons.php:1332
+#: include/addons/htslider_addons.php:1647
+#: include/addons/htslider_post_addons.php:642
+#: include/addons/htslider_post_addons.php:1300
+#: include/addons/htslider_post_addons.php:1369
+#: include/addons/htslider_post_addons.php:1724
+msgid "Horizontal Postion"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1153
+#: include/addons/htslider_addons.php:1541
+#: include/addons/htslider_post_addons.php:970
+#: include/addons/htslider_post_addons.php:1204
+#: include/addons/htslider_post_addons.php:1578
+msgid "Hover"
+msgstr ""
+
+#: include/addons/htslider_addons.php:425
+msgid "Hover color"
+msgstr ""
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr ""
+
+#. Name of the plugin
+#: include/base.php:190
+msgid "HT Slider Pro"
+msgstr ""
+
+#: include/admin/templates_list.php:27
+msgid "HT Slider Template Library"
+msgstr ""
+
+#: include/addons/htslider_addons.php:13
+msgid "HT: Slider"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:13
+msgid "HT: Slider Post Slider"
+msgstr ""
+
+#: include/base.php:134
+msgid "HTSlider Addons"
+msgstr ""
+
+#: include/base.php:113
+msgid "HTSlider Addons for Elementor"
+msgstr ""
+
+#: classes/class.widgets_control.php:47
+msgid "HTSlider Pro"
+msgstr ""
+
+#: include/addons/htslider_addons.php:159
+msgid "https://example.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/htplugins/"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:149
+msgid "ID"
+msgstr ""
+
+#: include/addons/htslider_addons.php:173
+msgid "Image Position (use style 2)"
+msgstr ""
+
+#: include/addons/htslider_addons.php:186
+msgid "Image Postion"
+msgstr ""
+
+#: include/admin/templates_list.php:84
+msgid "Import"
+msgstr ""
+
+#: include/admin/templates_list.php:58
+msgid "Import to Library"
+msgstr ""
+
+#: include/admin/templates_list.php:59
+msgid "Import to Slider"
+msgstr ""
+
+#: include/custom-post-type.php:33
+msgid "Insert into item"
+msgstr ""
+
+#: include/base.php:95
+msgid "Install Elementor"
+msgstr ""
+
+#: include/custom-post-type.php:17
+msgid "Item Archives"
+msgstr ""
+
+#: include/custom-post-type.php:35 include/custom-post-type.php:93
+msgid "Items list"
+msgstr ""
+
+#: include/custom-post-type.php:36 include/custom-post-type.php:94
+msgid "Items list navigation"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:780
+#: include/addons/htslider_post_addons.php:872
+#: include/addons/htslider_post_addons.php:1085
+msgid "Justified"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:44
+msgid "Layout"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:52
+msgid "Layout Five"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:51
+msgid "Layout Four"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:48
+msgid "Layout One"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:50
+msgid "Layout Three"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:49
+msgid "Layout Two"
+msgstr ""
+
+#: include/addons/htslider_addons.php:177
+#: include/addons/htslider_addons.php:238
+#: include/addons/htslider_addons.php:284
+#: include/addons/htslider_addons.php:329
+#: include/addons/htslider_addons.php:394
+#: include/addons/htslider_addons.php:919
+#: include/addons/htslider_post_addons.php:768
+#: include/addons/htslider_post_addons.php:860
+#: include/addons/htslider_post_addons.php:1073
+msgid "Left"
+msgstr ""
+
+#: include/licence/HTSliderPro.php:58 include/licence/HTSliderPro.php:59
+#: include/licence/HTSliderPro.php:69 include/licence/HTSliderPro.php:70
+msgid "Licence"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:108
+msgid "Limit"
+msgstr ""
+
+#: include/addons/htslider_addons.php:157
+msgid "Link"
+msgstr ""
+
+#: include/addons/htslider_addons.php:468
+#: include/addons/htslider_addons.php:475
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod consequatur "
+"enim corrupti"
+msgstr ""
+
+#: include/addons/htslider_addons.php:960
+#: include/addons/htslider_addons.php:992
+#: include/addons/htslider_addons.php:1024
+#: include/addons/htslider_addons.php:1116
+#: include/addons/htslider_addons.php:1715
+#: include/addons/htslider_post_addons.php:740
+#: include/addons/htslider_post_addons.php:832
+#: include/addons/htslider_post_addons.php:934
+#: include/addons/htslider_post_addons.php:1045
+#: include/addons/htslider_post_addons.php:1148
+#: include/addons/htslider_post_addons.php:1792
+msgid "Margin"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:1009
+msgid "Meta"
+msgstr ""
+
+#: include/addons/htslider_addons.php:795
+#: include/addons/htslider_post_addons.php:517
+msgid "Mobile Phone"
+msgstr ""
+
+#: include/addons/htslider_addons.php:837
+#: include/addons/htslider_post_addons.php:559
+msgid "Mobile Resolution"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:151
+msgid "Name"
+msgstr ""
+
+#: include/custom-post-type.php:22
+msgid "New Item"
+msgstr ""
+
+#: include/custom-post-type.php:81
+msgid "New Item Category"
+msgstr ""
+
+#: include/admin/template-library.php:181
+msgid "New Template"
+msgstr ""
+
+#: include/addons/htslider_addons.php:613
+#: include/addons/htslider_post_addons.php:335
+msgid "Next icon"
+msgstr ""
+
+#: include/addons/htslider_addons.php:643
+#: include/addons/htslider_post_addons.php:365
+msgid "No"
+msgstr ""
+
+#: include/custom-post-type.php:92
+msgid "No items"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:148
+msgid "None"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1056
+#: include/addons/htslider_addons.php:1391
+#: include/addons/htslider_addons.php:1615
+#: include/addons/htslider_post_addons.php:901
+#: include/addons/htslider_post_addons.php:1115
+#: include/addons/htslider_post_addons.php:1428
+#: include/addons/htslider_post_addons.php:1653
+msgid "Normal"
+msgstr ""
+
+#: include/custom-post-type.php:91
+msgid "Not Found"
+msgstr ""
+
+#: include/custom-post-type.php:27
+msgid "Not found"
+msgstr ""
+
+#: include/custom-post-type.php:28
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/addons/htslider_addons.php:60
+#: include/addons/htslider_post_addons.php:269
+msgid "Off"
+msgstr ""
+
+#: include/addons/htslider_addons.php:59
+#: include/addons/htslider_post_addons.php:268
+msgid "On"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:128
+msgid "Order"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:144
+msgid "Orderby"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1104
+#: include/addons/htslider_addons.php:1525
+#: include/addons/htslider_addons.php:1624
+#: include/addons/htslider_post_addons.php:752
+#: include/addons/htslider_post_addons.php:844
+#: include/addons/htslider_post_addons.php:946
+#: include/addons/htslider_post_addons.php:1057
+#: include/addons/htslider_post_addons.php:1160
+#: include/addons/htslider_post_addons.php:1562
+msgid "Padding"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1601
+#: include/addons/htslider_post_addons.php:1638
+msgid "Pagination"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1639
+#: include/addons/htslider_post_addons.php:1716
+msgid "Pagination Postion"
+msgstr ""
+
+#: include/custom-post-type.php:79
+msgid "Parent Item"
+msgstr ""
+
+#: include/custom-post-type.php:18 include/custom-post-type.php:80
+msgid "Parent Item:"
+msgstr ""
+
+#: include/addons/htslider_addons.php:647
+#: include/addons/htslider_post_addons.php:369
+msgid "Pause on Hover?"
+msgstr ""
+
+#: include/base.php:135
+msgid "PHP"
+msgstr ""
+
+#: include/admin/templates_list.php:15
+msgctxt "placeholder"
+msgid "Enter a Slider Title"
+msgstr ""
+
+#: include/licence/HTSliderPro.php:42
+msgid ""
+"Please activate your license to get automatic updates and premium support."
+msgstr ""
+
+#: include/base.php:145
+msgid ""
+"Please deactivate HT Slider for elementor before activating HT htslider."
+msgstr ""
+
+#: include/custom-post-type.php:89
+msgid "Popular Items"
+msgstr ""
+
+#: include/addons/htslider_addons.php:493
+#: include/addons/htslider_post_addons.php:63
+msgid "Post Option"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:37
+msgid "Post Slider"
+msgstr ""
+
+#: include/custom-post-type.php:13
+msgctxt "Post Type General Name"
+msgid "Slider"
+msgstr ""
+
+#: include/custom-post-type.php:14
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr ""
+
+#: include/admin/templates_list.php:87
+msgid "Preview"
+msgstr ""
+
+#: include/addons/htslider_addons.php:597
+#: include/addons/htslider_post_addons.php:319
+msgid "Previous icon"
+msgstr ""
+
+#: include/admin/templates_list.php:91
+msgid "Pro"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:154
+msgid "Random"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:212
+#: include/addons/htslider_post_addons.php:224
+#: include/addons/htslider_post_addons.php:225
+#: include/addons/htslider_post_addons.php:1101
+msgid "Read More"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:222
+msgid "Read More button text"
+msgstr ""
+
+#: include/custom-post-type.php:31
+msgid "Remove featured image"
+msgstr ""
+
+#: include/addons/htslider_addons.php:178
+#: include/addons/htslider_addons.php:246
+#: include/addons/htslider_addons.php:292
+#: include/addons/htslider_addons.php:337
+#: include/addons/htslider_addons.php:402
+#: include/addons/htslider_addons.php:927
+#: include/addons/htslider_post_addons.php:776
+#: include/addons/htslider_post_addons.php:868
+#: include/addons/htslider_post_addons.php:1081
+msgid "Right"
+msgstr ""
+
+#: include/custom-post-type.php:26
+msgid "Search Item"
+msgstr ""
+
+#: include/custom-post-type.php:90
+msgid "Search Items"
+msgstr ""
+
+#: include/helpers_function.php:10
+msgid "Select"
+msgstr ""
+
+#: include/addons/htslider_addons.php:530
+msgid "Select Category"
+msgstr ""
+
+#: include/addons/htslider_addons.php:516
+msgid "Select Slider"
+msgstr ""
+
+#: include/custom-post-type.php:86
+msgid "Separate items with commas"
+msgstr ""
+
+#: include/custom-post-type.php:30
+msgid "Set featured image"
+msgstr ""
+
+#: include/base.php:161
+msgid "Settings"
+msgstr ""
+
+#: include/addons/htslider_addons.php:508
+msgid "Show By Category"
+msgstr ""
+
+#: include/addons/htslider_addons.php:507
+msgid "Show By ID"
+msgstr ""
+
+#: include/addons/htslider_addons.php:480
+msgid "Single Slide"
+msgstr ""
+
+#: include/custom-post-type.php:15 include/custom-post-type.php:16
+#: include/custom-post-type.php:41 include/addons/htslider_addons.php:37
+#: include/addons/htslider_addons.php:57
+#: include/addons/htslider_post_addons.php:266
+msgid "Slider"
+msgstr ""
+
+#: include/addons/htslider_addons.php:584
+#: include/addons/htslider_post_addons.php:306
+msgid "Slider Arrow"
+msgstr ""
+
+#: include/addons/htslider_addons.php:686
+#: include/addons/htslider_post_addons.php:408
+msgid "Slider auto play"
+msgstr ""
+
+#: include/custom-post-type.php:77
+msgid "Slider Category"
+msgstr ""
+
+#: include/addons/htslider_addons.php:629
+#: include/addons/htslider_post_addons.php:351
+msgid "Slider dots"
+msgstr ""
+
+#: include/addons/htslider_addons.php:461
+msgid "Slider Item"
+msgstr ""
+
+#: include/addons/htslider_addons.php:467
+msgid "Slider Item 1"
+msgstr ""
+
+#: include/addons/htslider_addons.php:474
+msgid "Slider Item 2"
+msgstr ""
+
+#: include/addons/htslider_addons.php:725
+#: include/addons/htslider_addons.php:767
+#: include/addons/htslider_addons.php:822
+#: include/addons/htslider_post_addons.php:447
+#: include/addons/htslider_post_addons.php:489
+#: include/addons/htslider_post_addons.php:544
+msgid "Slider item to scroll"
+msgstr ""
+
+#: include/addons/htslider_addons.php:569
+#: include/addons/htslider_addons.php:752
+#: include/addons/htslider_addons.php:807
+#: include/addons/htslider_post_addons.php:291
+#: include/addons/htslider_post_addons.php:474
+#: include/addons/htslider_post_addons.php:529
+msgid "Slider Items"
+msgstr ""
+
+#: include/addons/htslider_addons.php:544
+msgid "Slider Limit"
+msgstr ""
+
+#: include/addons/htslider_addons.php:71 include/addons/htslider_addons.php:559
+#: include/addons/htslider_post_addons.php:281
+msgid "Slider Option"
+msgstr ""
+
+#: include/addons/htslider_addons.php:503
+msgid "Slider Show By"
+msgstr ""
+
+#: include/addons/htslider_addons.php:81
+msgid "Slider Style"
+msgstr ""
+
+#: include/addons/htslider_addons.php:118
+msgid "Stay Warm"
+msgstr ""
+
+#: include/addons/htslider_addons.php:208
+#: include/addons/htslider_addons.php:862
+#: include/addons/htslider_addons.php:1238
+#: include/addons/htslider_post_addons.php:1275
+msgid "Style"
+msgstr ""
+
+#: include/addons/htslider_addons.php:85
+msgid "Style 1"
+msgstr ""
+
+#: include/addons/htslider_addons.php:86
+msgid "Style 2"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1242
+#: include/addons/htslider_post_addons.php:1279
+msgid "Style One"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1243
+#: include/addons/htslider_post_addons.php:1280
+msgid "Style Two"
+msgstr ""
+
+#: include/addons/htslider_addons.php:975
+msgid "Sub Title"
+msgstr ""
+
+#: include/addons/htslider_addons.php:114
+msgid "Sub title (HTML tag supported)"
+msgstr ""
+
+#: include/addons/htslider_addons.php:466
+#: include/addons/htslider_addons.php:473
+msgid "Sub title item "
+msgstr ""
+
+#: include/addons/htslider_addons.php:740
+#: include/addons/htslider_post_addons.php:462
+msgid "Tablet"
+msgstr ""
+
+#: include/addons/htslider_addons.php:782
+#: include/addons/htslider_post_addons.php:504
+msgid "Tablet Resolution"
+msgstr ""
+
+#: include/custom-post-type.php:75
+msgctxt "Taxonomy General Name"
+msgid "Slider Categories"
+msgstr ""
+
+#: include/custom-post-type.php:76
+msgctxt "Taxonomy Singular Name"
+msgid "Slider Category"
+msgstr ""
+
+#: include/admin/template-library.php:158
+msgid "Templates in this package"
+msgstr ""
+
+#: include/admin/template-library.php:51 include/admin/template-library.php:52
+msgid "Templates Library"
+msgstr ""
+
+#: include/addons/htslider_addons.php:838
+#: include/addons/htslider_post_addons.php:560
+msgid "The resolution to mobile."
+msgstr ""
+
+#: include/addons/htslider_addons.php:783
+#: include/addons/htslider_post_addons.php:505
+msgid "The resolution to tablet."
+msgstr ""
+
+#. Description of the plugin
+msgid "The Slider is a elementor addons for WordPress."
+msgstr ""
+
+#: include/addons/htslider_addons.php:215
+#: include/addons/htslider_addons.php:944
+#: include/addons/htslider_post_addons.php:152
+#: include/addons/htslider_post_addons.php:165
+#: include/addons/htslider_post_addons.php:704
+msgid "Title"
+msgstr ""
+
+#: include/addons/htslider_addons.php:125
+msgid "Title (HTML tag supported)"
+msgstr ""
+
+#: include/addons/htslider_addons.php:223
+msgid "Title Color"
+msgstr ""
+
+#: include/addons/htslider_post_addons.php:176
+msgid "Title Length"
+msgstr ""
+
+#: include/addons/htslider_addons.php:952
+#: include/addons/htslider_addons.php:983
+#: include/addons/htslider_addons.php:1015
+#: include/addons/htslider_addons.php:1064
+#: include/addons/htslider_post_addons.php:731
+#: include/addons/htslider_post_addons.php:823
+#: include/addons/htslider_post_addons.php:925
+#: include/addons/htslider_post_addons.php:1036
+#: include/addons/htslider_post_addons.php:1139
+msgid "Typography"
+msgstr ""
+
+#: include/custom-post-type.php:24 include/custom-post-type.php:84
+msgid "Update Item"
+msgstr ""
+
+#: include/custom-post-type.php:34
+msgid "Uploaded to this item"
+msgstr ""
+
+#: include/custom-post-type.php:32
+msgid "Use as featured image"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1289
+#: include/addons/htslider_addons.php:1358
+#: include/addons/htslider_addons.php:1674
+#: include/addons/htslider_post_addons.php:668
+#: include/addons/htslider_post_addons.php:1326
+#: include/addons/htslider_post_addons.php:1395
+#: include/addons/htslider_post_addons.php:1751
+msgid "Vertical Postion"
+msgstr ""
+
+#: include/addons/htslider_addons.php:94
+msgid "View"
+msgstr ""
+
+#: include/custom-post-type.php:25 include/custom-post-type.php:85
+msgid "View Item"
+msgstr ""
+
+#: include/licence/HTSliderPro.php:41
+msgid "Welcome to HTSlider Pro!"
+msgstr ""
+
+#: include/addons/htslider_addons.php:1498
+#: include/addons/htslider_post_addons.php:1535
+#: include/addons/htslider_post_addons.php:1687
+msgid "Width"
+msgstr ""
+
+#: include/addons/htslider_addons.php:129
+#: include/addons/htslider_addons.php:140
+msgid "Winter -2019"
+msgstr ""
+
+#: include/addons/htslider_addons.php:644
+#: include/addons/htslider_post_addons.php:366
+msgid "Yes"
+msgstr ""

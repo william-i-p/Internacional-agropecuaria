@@ -1,0 +1,1392 @@
+# Copyright (C) 2021 Taber for Elementor
+# This file is distributed under the same license as the Taber for Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Taber for Elementor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/CheckCompatibility.php:215, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:266, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:286, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:503
+msgid "Taber for Elementor"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/CheckCompatibility.php:240
+msgid "The minimum PHP version required for Taber for Elementor plugin is 5.6.0."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:262
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:263
+msgid "General Settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:289, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:290
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:296
+msgid "Add custom CSS here."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:323
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:324
+msgid "Assignments Settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:373
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:374, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:349
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:400
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:401
+msgid "System Status"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:456, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:457
+msgid "Updates"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:477
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:478
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:485
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:486
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Plugin.php:487
+msgid "Delete plugin, settings and data"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:140, wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:140
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:141, wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:141, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:161
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:142, wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:142
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginHelper.php:163
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginUpdater.php:429
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginUpdater.php:431
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/PluginUpdater.php:433
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterPlugins.php:90, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterPlugins.php:123
+msgid "Active Plugins"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:52
+msgid "Server Environment"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:71
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:72
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:73
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:74
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:75
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:76
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:77
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:78
+msgid "Elementor Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:79
+msgid "allow_url_fopen"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:80
+msgid "DOM Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:81
+msgid "XML Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:82
+msgid "BCMath Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:83
+msgid "mbstring Installed"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:84
+msgid "Server Time Sync"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:131, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:223, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:247, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:271, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:297, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:323, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:349, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:375, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:418, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:437, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:465
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:131, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:223, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:247, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:271, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:297, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:323, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:349, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:375, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:418, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:437, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:465
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:133
+msgid "You must enable allow_url_fopen option in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:197
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:249
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:273
+msgid "You need install and activate Elementor builder. Go to Elementor site (elementor.com) for details."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:299
+msgid " You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:325
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:351
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:377
+msgid "You must enable mbstring extension (Multibyte String) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:420, wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:439
+msgid "Failed to check time synchronization on your server. Your server's clock must be in sync with network time protocol - NTP."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:467
+msgid " Your server's clock is not in sync with network time protocol - NTP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:547
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:555
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:561
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:578
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterServer.php:573
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#. translators: %s: Codex URL
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterTheme.php:211
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:49
+msgid "WordPress Environment"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:64
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:65
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:66
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:67
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:68
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:69
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:70
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:71
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:72
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:73
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:74
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:142
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:186, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:529, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:567, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1118
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:186, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:530, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:568, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1119
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:250
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:360
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/ReporterWordPress.php:360
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:99
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:157
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:167
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:171
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:177
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:265, wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:285
+msgid "Taber Settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:451
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:475
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:481
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:499
+msgid "TaberElementor"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:505, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:91
+msgid "Taber"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:510
+msgid "v."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/Settings.php:516
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:102
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:112
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:107
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:287
+msgid "Subscribe to updates"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:288
+msgid "Sign up for the newsletter to be the first to know about news and discounts."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:290
+msgid "Hurray! We received your Subscription request. Check your inbox for an email from us."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:291
+msgid "Oh! Sorry, but we cannot send messages to this email."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:292
+msgid "Oops! Something went wrong. Please try later."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:299
+msgid "Your Name"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:310
+msgid "Your E-Mail"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:321
+msgid "Subscribe"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:355
+msgid "Purchase code"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:356
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:378
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:382
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:385
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:386
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:387
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:388
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:389, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:423
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:395
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:399
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:400
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:401
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:407
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:411
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:417
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:421
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabActivation.php:422
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:256
+msgid "Matching Method"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:257
+msgid "Should all or any assignments be matched?"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:259
+msgid "ALL"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:260
+msgid "ANY"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:262
+msgid "The plugin is enabled on the page if ALL the selected rules matched, or if ANY of the selected rules matched"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:267
+msgid "WordPress Content"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:270, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:294, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:304, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:335, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:361, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:391, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:418, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:442, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:466, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:521, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:618, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:645
+msgid "Ignore"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:271, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:295, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:305, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:336, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:362, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:392, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:419, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:443, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:467, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:522, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:619, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:646
+msgid "Include"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:272, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:296, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:306, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:337, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:363, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:393, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:420, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:444, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:468, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:523, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:620, wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:647
+msgid "Exclude"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:277
+msgid "Select on what page types or categories the assignment should be active."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:291
+msgid "Home Page"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:302
+msgid "Menu Items"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:310
+msgid "Select the menu items to assign to."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:332
+msgid "Date & Time"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:347
+msgid "The date and time assignments use the date/time of your servers, not that of the visitors system."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:349
+msgid "Current date/time:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:358
+msgid "Languages"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:367
+msgid "Select the languages to assign to."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:388
+msgid "User Roles"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:397
+msgid "Select the user roles to assign to."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:415
+msgid "URL"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:425
+msgid "Enter (part of) the URLs to match."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:426
+msgid "Use a new line for each different match."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:439
+msgid "Devices"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:448
+msgid "Select the devices to assign to. Keep in mind that device detection is not always 100% accurate. Users can setup their device to mimic other devices."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:452
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:453
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:454
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:463
+msgid "Operating Systems"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:472
+msgid "Select the operating systems to assign to. Keep in mind that operating system detection is not always 100% accurate. Users can setup their browser to mimic other operating systems."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:476
+msgid "Windows (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:477
+msgid "Windows 10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:478
+msgid "Windows 8"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:479
+msgid "Windows 7"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:480
+msgid "Windows Vista"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:481
+msgid "Windows Server 2003"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:482
+msgid "Windows XP"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:483
+msgid "Windows 2000 sp1"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:484
+msgid "Windows 2000"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:485
+msgid "Windows NT 4.0"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:486
+msgid "Windows Me"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:487
+msgid "Windows 98"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:488
+msgid "Windows 95"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:489
+msgid "Windows CE"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:490
+msgid "Mac OS (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:491
+msgid "Mac OSX (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:492
+msgid "Mac OSX El Capitan"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:493
+msgid "Mac OSX Yosemite"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:494
+msgid "Mac OSX Mavericks"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:495
+msgid "Mac OSX Mountain Lion"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:496
+msgid "Mac OSX Lion"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:497
+msgid "Mac OSX Snow Leopard"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:498
+msgid "Mac OSX Leopard"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:499
+msgid "Mac OSX Tiger"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:500
+msgid "Mac OSX Panther"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:501
+msgid "Mac OSX Jaguar"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:502
+msgid "Mac OSX Puma"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:503
+msgid "Mac OSX Cheetah"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:504
+msgid "Mac OS (classic)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:505
+msgid "Linux"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:506
+msgid "Open BSD"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:507
+msgid "Sun OS"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:508
+msgid "QNX"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:509
+msgid "BeOS"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:510
+msgid "OS/2"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:518
+msgid "Browsers"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:527
+msgid "Select the browsers to assign to. Keep in mind that browser detection is not always 100% accurate. Users can setup their browser to mimic other browsers."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:530
+msgid "Browsers:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:535
+msgid "Chrome (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:536
+msgid "Chrome 61-70"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:537
+msgid "Chrome 51-60"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:538
+msgid "Chrome 41-50"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:539
+msgid "Chrome 31-40"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:540
+msgid "Chrome 21-30"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:541
+msgid "Chrome 11-20"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:542
+msgid "Chrome 1-10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:543
+msgid "Firefox (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:544
+msgid "Firefox 61-70"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:545
+msgid "Firefox 51-60"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:546
+msgid "Firefox 41-50"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:547
+msgid "Firefox 31-40"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:548
+msgid "Firefox 21-30"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:549
+msgid "Firefox 11-20"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:550
+msgid "Firefox 1-10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:551
+msgid "Internet Explorer (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:552
+msgid "Internet Explorer Edge"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:553
+msgid "Edge 15"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:554
+msgid "Edge 14"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:555
+msgid "Edge 13"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:556
+msgid "Edge 12"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:557
+msgid "Internet Explorer 11"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:558
+msgid "Internet Explorer 10.6"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:559
+msgid "Internet Explorer 10.0"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:560
+msgid "Internet Explorer 10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:561
+msgid "Internet Explorer 9"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:562
+msgid "Internet Explorer 8"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:563
+msgid "Internet Explorer 7"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:564
+msgid "Internet Explorer 1-6"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:565
+msgid "Opera (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:566
+msgid "Opera 51-60"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:567
+msgid "Opera 41-50"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:568
+msgid "Opera 31-40"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:569
+msgid "Opera 21-30"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:570
+msgid "Opera 11-20"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:571
+msgid "Opera 1-10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:572
+msgid "Safari (All)"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:573
+msgid "Safari 11"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:574
+msgid "Safari 10"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:575
+msgid "Safari 9"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:576
+msgid "Safari 8"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:577
+msgid "Safari 7"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:578
+msgid "Safari 6"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:579
+msgid "Safari 5"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:580
+msgid "Safari 4"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:581
+msgid "Safari 1-3"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:587
+msgid "Mobile Browsers:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:592
+msgid "All"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:593
+msgid "Android"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:594
+msgid "Android Chrome"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:595
+msgid "Blackberry"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:596
+msgid "IE Mobile"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:597
+msgid "iPad"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:598
+msgid "iPhone"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:599
+msgid "iPod Touch"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:600
+msgid "NetFront"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:601
+msgid "Nokia"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:602
+msgid "Opera Mini"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:603
+msgid "Opera Mobile"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:604
+msgid "UC Browser"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:615
+msgid "IP Addresses"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:625
+msgid "IP Addresses / Ranges"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:631
+msgid "List of IP addresses or IP ranges. Example: "
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:632
+msgid "46.33.233.31"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:633
+msgid "46.0-46.1"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:634
+msgid "46"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:642
+msgid "Custom PHP"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:652
+msgid "Enter a piece of PHP code to evaluate. The code must return the value true or false."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabAssignments.php:654
+msgid "For instance:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabStatus.php:238
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabUninstall.php:84
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabUninstall.php:111
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabUninstall.php:117
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabUpdates.php:80
+msgid "Check for updates:"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/TabUpdates.php:95
+msgid "Check Updates"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/UI.php:609
+msgid "Icon Library"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/Unity/UI.php:610
+msgid "Upload SVG"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:222
+msgid "Content settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:229
+msgid "Initial tab number"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:242
+msgid "TAB"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:245
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:251, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:349, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:353
+msgid "Tab"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:252
+msgid "Type your title"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:256
+msgid "Icon type"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:260
+msgid "None"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:264
+msgid "Icon"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:268
+msgid "Image"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:277
+msgid "Alignment"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:281, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:393, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:699
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:285
+msgid "Center"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:289, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:394, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:700
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:301
+msgid "Title icon"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:313
+msgid "Tab image"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:325
+msgid "CONTENT"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:330
+msgid "Tab Content"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:335
+msgid "Type content of your tab here"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:344, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1045
+msgid "Tab content"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:350, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:354
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:376
+msgid "General settings"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:383
+msgid "Layout"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:387
+msgid "Top left"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:388
+msgid "Top center"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:389
+msgid "Top right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:390
+msgid "Bottom left"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:391
+msgid "Bottom center"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:392
+msgid "Bottom right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:395
+msgid "Custom"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:403
+msgid "Tabs width"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:429
+msgid "Offset X"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:460
+msgid "Offset Y"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:491
+msgid "Show content on load"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:493, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:517
+msgid "Show"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:494, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:518
+msgid "Hide"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:503
+msgid "Toggle tabs"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:505, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:809
+msgid "On"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:506, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:810
+msgid "Off"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:515
+msgid "Show arrow"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:527
+msgid "Show animation"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:539
+msgid "Animation duration"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:565
+msgid "One column navigation on mobile"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:588
+msgid "Tab items"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:595, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1052
+msgid "Margin"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:609, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1065
+msgid "Padding"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:629
+msgid "Tabs bar styles"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:638
+msgid "Tabs bar background"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:649
+msgid "Tabs bar border"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:657
+msgid "Tabs bar border radius"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:672, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:873, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:960, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1021, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1200
+msgid "Box Shadow"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:687
+msgid "Icon styles"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:695
+msgid "Icon position"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:701
+msgid "Top - Left"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:702
+msgid "Top - Center"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:703
+msgid "Top - Right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:704
+msgid "Bottom - Left"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:705
+msgid "Bottom - Center"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:706
+msgid "Bottom - Right"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:714
+msgid "Icon size"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:742
+msgid "Icon padding"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:763
+msgid "Single tab styles"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:771
+msgid "Tab width"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:798, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1151
+msgid "Typography"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:807
+msgid "Line break"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:818
+msgid "NORMAL"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:823, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:885, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:972, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1135
+msgid "Color"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:840, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:902, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:989, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1161
+msgid "Background type"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:850, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:937, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:999, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1178
+msgid "Border Type"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:858, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:945, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1007, wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1186
+msgid "Border radius"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:880
+msgid "HOVER"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:911
+msgid "Hover transition"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:967
+msgid "ACTIVE"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1085
+msgid "Minimal height"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1116
+msgid "Height at maximum content"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1218
+msgid "Arrow"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1228
+msgid "Arrow size"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1266
+msgid "Arrow spacing"
+msgstr ""
+
+#: wp-content/plugins/taber-elementor/src/Merkulove/TaberElementor/Elementor/widgets/Taber/taber.elementor.php:1294
+msgid "Arrow Color"
+msgstr ""

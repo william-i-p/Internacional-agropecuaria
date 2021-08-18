@@ -1,0 +1,170 @@
+/**
+ * Taber for Elementor
+ * Tabs for Elementor editor
+ * Exclusively on https://1.envato.market/taber-elementor
+ *
+ * @encoding        UTF-8
+ * @version         1.0.2
+ * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Nemirovskiy Vitaliy (nemirovskiyvitaliy@gmail.com), Cherviakov Vlad (vladchervjakov@gmail.com), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+.mdp-tabs-wrapper-taber {
+  display: flex; }
+  .mdp-tabs-wrapper-taber .mdp-top-left-nav-tabs,
+  .mdp-tabs-wrapper-taber .mdp-bottom-left-nav-tabs {
+    justify-content: flex-start; }
+    .mdp-tabs-wrapper-taber .mdp-top-left-nav-tabs .mdp-taber-scroll,
+    .mdp-tabs-wrapper-taber .mdp-bottom-left-nav-tabs .mdp-taber-scroll {
+      justify-content: flex-start; }
+  .mdp-tabs-wrapper-taber .mdp-top-center-nav-tabs,
+  .mdp-tabs-wrapper-taber .mdp-bottom-center-nav-tabs {
+    justify-content: center; }
+    .mdp-tabs-wrapper-taber .mdp-top-center-nav-tabs .mdp-taber-scroll,
+    .mdp-tabs-wrapper-taber .mdp-bottom-center-nav-tabs .mdp-taber-scroll {
+      justify-content: center; }
+  .mdp-tabs-wrapper-taber.mdp-top-nav-tabs {
+    flex-direction: column; }
+    .mdp-tabs-wrapper-taber.mdp-top-nav-tabs .mdp-arrow {
+      left: 50%; }
+    .mdp-tabs-wrapper-taber.mdp-top-nav-tabs .mdp-tabs-nav-taber {
+      overflow: hidden; }
+  .mdp-tabs-wrapper-taber.mdp-bottom-nav-tabs {
+    flex-direction: column-reverse; }
+    .mdp-tabs-wrapper-taber.mdp-bottom-nav-tabs .mdp-tabs-nav-taber {
+      overflow: hidden;
+      position: relative; }
+      .mdp-tabs-wrapper-taber.mdp-bottom-nav-tabs .mdp-tabs-nav-taber .mdp-tab-nav-taber .mdp-arrow {
+        left: 50%;
+        bottom: 44px;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 0;
+        border-bottom: 10px solid #000; }
+  .mdp-tabs-wrapper-taber.mdp-left-nav-tabs {
+    flex-direction: row; }
+    .mdp-tabs-wrapper-taber.mdp-left-nav-tabs .mdp-tabs-nav-taber .mdp-tab-nav-taber .mdp-arrow {
+      left: auto;
+      border-left: 10px solid #000;
+      border-right: 0;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent; }
+  .mdp-tabs-wrapper-taber.mdp-right-nav-tabs {
+    flex-direction: row-reverse; }
+    .mdp-tabs-wrapper-taber.mdp-right-nav-tabs .mdp-tabs-nav-taber .mdp-tab-nav-taber .mdp-arrow {
+      right: auto;
+      border-left: 0;
+      border-right: 10px solid #000;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent; }
+
+[data-elementor-device-mode="mobile"] .mdp-tabs-nav-taber-mobile-one-column {
+  flex-wrap: wrap; }
+
+[data-elementor-device-mode="mobile"] .mdp-tabs-nav-taber-item-mobile-one-column {
+  width: 100%; }
+
+.mdp-tabs-nav-taber {
+  display: flex;
+  max-width: 100%; }
+  .mdp-tabs-nav-taber.mdp-custom-nav-tabs {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    z-index: 2; }
+  .mdp-tabs-nav-taber .mdp-taber-scroll {
+    display: flex;
+    min-width: 100%; }
+  .mdp-tabs-nav-taber.mdp-right-nav-tabs, .mdp-tabs-nav-taber.mdp-left-nav-tabs {
+    flex-direction: column; }
+    .mdp-tabs-nav-taber.mdp-right-nav-tabs .mdp-taber-scroll, .mdp-tabs-nav-taber.mdp-left-nav-tabs .mdp-taber-scroll {
+      flex-direction: column; }
+  .mdp-tabs-nav-taber .mdp-tab-nav-taber {
+    display: flex;
+    justify-content: center;
+    padding: 5px 25px;
+    cursor: pointer;
+    position: relative;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none; }
+    .mdp-tabs-nav-taber .mdp-tab-nav-taber span {
+      white-space: nowrap;
+      word-break: normal; }
+    .mdp-tabs-nav-taber .mdp-tab-nav-taber.is-active > .mdp-arrow {
+      display: flex;
+      justify-self: center;
+      align-self: center; }
+  .mdp-tabs-nav-taber.mdp-taber-line-break .mdp-tab-nav-taber span {
+    white-space: break-spaces; }
+
+.mdp-arrow {
+  position: absolute;
+  display: none;
+  width: 0;
+  height: 0;
+  margin: 0 auto;
+  z-index: 1;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #000;
+  border-bottom: 0; }
+  .mdp-arrow.yes {
+    display: block; }
+
+.mdp-tab-icon-taber {
+  padding-right: 5px; }
+
+.mdp-left-icon-tabs {
+  flex-direction: row; }
+
+.mdp-right-icon-tabs {
+  flex-direction: row-reverse; }
+
+.mdp-top-left-icon-tabs,
+.mdp-top-center-icon-tabs,
+.mdp-top-right-icon-tabs {
+  flex-direction: column; }
+
+.mdp-bottom-left-icon-tabs,
+.mdp-bottom-center-icon-tabs,
+.mdp-bottom-right-icon-tabs {
+  flex-direction: column-reverse; }
+
+.mdp-top-center-icon-tabs,
+.mdp-bottom-center-icon-tabs {
+  align-items: center; }
+
+.mdp-top-right-icon-tabs,
+.mdp-bottom-right-icon-tabs {
+  align-items: flex-end; }
+
+.mdp-tab-title-taber {
+  display: flex;
+  align-items: center; }
+
+.mdp-tabs-content-taber.mdp-right-nav-tabs, .mdp-tabs-content-taber.mdp-left-nav-tabs {
+  width: 100%; }
+
+.mdp-tab-content-taber {
+  display: none;
+  padding: 15px;
+  word-break: break-all;
+  min-height: inherit; }
+  .mdp-tab-content-taber.is-active {
+    display: block; }
+  .mdp-tab-content-taber.equal-height {
+    display: block; }
+
+@-webkit-keyframes fade_in_show {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@keyframes fade_in_show {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }

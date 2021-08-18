@@ -1,0 +1,204 @@
+/**
+ * Taber for Elementor
+ * Tabs for Elementor editor
+ * Exclusively on https://1.envato.market/taber-elementor
+ *
+ * @encoding        UTF-8
+ * @version         1.0.2
+ * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Nemirovskiy Vitaliy (nemirovskiyvitaliy@gmail.com), Cherviakov Vlad (vladchervjakov@gmail.com), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+
+@mixin create-arrow ($border-top, $border-bottom, $border-left, $border-right)
+  border-left: $border-left
+  border-right: $border-right
+  border-top: $border-top
+  border-bottom: $border-bottom
+
+// Tabs navigation Styles
+
+.mdp-tabs-wrapper-taber
+  display: flex
+
+  .mdp-top-left-nav-tabs,
+  .mdp-bottom-left-nav-tabs
+    justify-content: flex-start
+
+    .mdp-taber-scroll
+      justify-content: flex-start
+
+  .mdp-top-center-nav-tabs,
+  .mdp-bottom-center-nav-tabs
+    justify-content: center
+
+    .mdp-taber-scroll
+      justify-content: center
+
+
+  &.mdp-top-nav-tabs
+    flex-direction: column
+
+    .mdp-arrow
+      left: 50%
+
+    .mdp-tabs-nav-taber
+      overflow: hidden
+
+  &.mdp-bottom-nav-tabs
+    flex-direction: column-reverse
+
+    .mdp-tabs-nav-taber
+      overflow: hidden
+      position: relative
+
+      .mdp-tab-nav-taber
+
+        .mdp-arrow
+          left: 50%
+          bottom: 44px
+          @include create-arrow(0, 10px solid #000, 10px solid transparent, 10px solid transparent)
+
+  &.mdp-left-nav-tabs
+    flex-direction: row
+
+    .mdp-tabs-nav-taber
+
+      .mdp-tab-nav-taber
+
+        .mdp-arrow
+          left: auto
+          @include create-arrow(10px solid transparent, 10px solid transparent, 10px solid #000, 0)
+
+  &.mdp-right-nav-tabs
+    flex-direction: row-reverse
+
+    .mdp-tabs-nav-taber
+
+      .mdp-tab-nav-taber
+
+        .mdp-arrow
+          right: auto
+          @include create-arrow(10px solid transparent, 10px solid transparent, 0, 10px solid #000)
+
+[data-elementor-device-mode="mobile"] .mdp-tabs-nav-taber-mobile-one-column
+  flex-wrap: wrap
+
+[data-elementor-device-mode="mobile"] .mdp-tabs-nav-taber-item-mobile-one-column
+  width: 100%
+
+.mdp-tabs-nav-taber
+  display: flex
+  max-width: 100%
+
+  &.mdp-custom-nav-tabs
+    position: absolute
+    max-width: 100%
+    overflow: hidden
+    z-index: 2
+
+  .mdp-taber-scroll
+    display: flex
+    min-width: 100%
+
+  &.mdp-right-nav-tabs,
+  &.mdp-left-nav-tabs
+    flex-direction: column
+
+    .mdp-taber-scroll
+      flex-direction: column
+
+  .mdp-tab-nav-taber
+    display: flex
+    justify-content: center
+    padding: 5px 25px
+    cursor: pointer
+    position: relative
+    user-select: none
+
+    span
+      white-space: nowrap
+      word-break: normal
+
+    &.is-active > .mdp-arrow
+      display: flex
+      justify-self: center
+      align-self: center
+
+  &.mdp-taber-line-break
+
+    .mdp-tab-nav-taber
+
+      span
+        white-space: break-spaces
+
+.mdp-arrow
+  position: absolute
+  display: none
+  width: 0
+  height: 0
+  margin: 0 auto
+  z-index: 1
+  @include create-arrow (10px solid #000, 0, 10px solid transparent, 10px solid transparent)
+  &.yes
+    display: block
+
+.mdp-tab-icon-taber
+  padding-right: 5px
+
+// positions of icons in tabs
+
+.mdp-left-icon-tabs
+  flex-direction: row
+
+.mdp-right-icon-tabs
+  flex-direction: row-reverse
+
+.mdp-top-left-icon-tabs,
+.mdp-top-center-icon-tabs,
+.mdp-top-right-icon-tabs
+  flex-direction: column
+
+.mdp-bottom-left-icon-tabs,
+.mdp-bottom-center-icon-tabs,
+.mdp-bottom-right-icon-tabs
+  flex-direction: column-reverse
+
+.mdp-top-center-icon-tabs,
+.mdp-bottom-center-icon-tabs
+  align-items: center
+
+.mdp-top-right-icon-tabs,
+.mdp-bottom-right-icon-tabs
+  align-items: flex-end
+
+.mdp-tab-title-taber
+  display: flex
+  align-items: center
+
+//Tabs content styles
+
+.mdp-tabs-content-taber
+  &.mdp-right-nav-tabs,
+  &.mdp-left-nav-tabs
+    width: 100%
+
+.mdp-tab-content-taber
+  display: none
+  padding: 15px
+  word-break: break-all
+  min-height: inherit
+
+  &.is-active
+    display: block
+
+  &.equal-height
+    display: block
+
+  @keyframes fade_in_show
+    0%
+      opacity: 0
+
+    100%
+      opacity: 1
